@@ -37,7 +37,7 @@
     "react-router-redux": "^4.0.8",
     "react-transform-catch-errors": "^1.0.2",
     "react-transform-hmr": "^1.0.4",
-    "three": "^0.110.0",
+    "three": "^0.125.0",
     "webpack-merge": "^4.2.2"
   },
   "devDependencies": {
